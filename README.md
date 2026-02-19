@@ -219,4 +219,4 @@ Nutze nun das SMGW in Home Assistant auf Basis [dieser Anleitung](https://github
 
 ## Hinweis
 
-Diese Anleitung ist insgesamt viel zu komplex für einen normaler deutschen Menschen, der einfach nur das SMGW für seine Energiewende nutzen will. Daher sollten die Messstellenbetreiber IMHO die SMGW's so ausliefern, dass sie für normale Menschen nutzbar sind. Dazu müssen sie DHCP aktiviert haben am HAN/LAN-Port.
+Diese Anleitung ist insgesamt viel zu komplex für einen normalen deutschen Menschen, der einfach nur das SMGW für seine Energiewende nutzen will. Daher sollten die Messstellenbetreiber die SMGW's so ausliefern, dass sie für normale Menschen nutzbar sind. Dazu müssen sie DHCP aktiviert haben am HAN/LAN-Port.
